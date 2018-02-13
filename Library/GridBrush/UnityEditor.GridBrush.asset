@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Default Brush
   m_EditorClassIdentifier: 
   m_Cells:
-  - m_Tile: {fileID: 11400000, guid: 2ce2222f93c51524c98a74bf0ca8bff6, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 58259065fc746054483e05d48994c891, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -31,7 +31,7 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  - m_Tile: {fileID: 11400000, guid: 1b57249dc21b5664890b5b0ba5a9c408, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 1103e816ec0db7949b9a9dacca93e0a8, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -50,7 +50,7 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  - m_Tile: {fileID: 11400000, guid: 97fa1ec90aaced54b9c49d99cd283676, type: 2}
+  - m_Tile: {fileID: 11400000, guid: c913a4b9231faf94eb4db0c30376c720, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -69,7 +69,7 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  - m_Tile: {fileID: 11400000, guid: f3f78db5c4022f14fa6787e33b1785c5, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 015cca5f809b3a54d98a6c3de6ad6fcf, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
